@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 My name is Voluptua!
+
+- **Rust/C developer (always learning something new)**
+- **(Pokémon) ROM-hacker**
+- **More information: [My-Homepage](https://voluptua.github.io/)**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=voluptua&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voluptua&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
